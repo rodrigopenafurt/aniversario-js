@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 100%;
+    padding: 50px;
+    background: linear-gradient(110.9deg, rgb(159, 131, 216) 2.6%, rgb(27, 245, 241) 100.2%);
+
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+main {
+
+    img {
+        max-width: 100%;
+    }
+}
