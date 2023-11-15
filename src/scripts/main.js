@@ -51,7 +51,6 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     formulario.addEventListener('submit', function() {
-        event.preventDefault();
 
         if (nomeInput.value.trim() !== '' && emailInput.value.trim() !== '') {
             alert('Obrigado pela confirmação! Aguardamos você no dia da festa, os detalhes do evento serão enviados por email. =)');

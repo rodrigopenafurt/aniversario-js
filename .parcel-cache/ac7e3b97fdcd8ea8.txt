@@ -1,19 +1,19 @@
 5958
 63/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/sharp.config.json1699319105688560963 0
-73/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/boloniver.ef29007c.jpg1700071304543387972 0
-66/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/styles/main.css1700071425215711037 0
+73/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/boloniver.ef29007c.jpg1700072766103091928 0
+66/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/styles/main.css1700072766339092560 0
 69/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/index.6d04d9e6.css1699319169112696607 0
-66/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/scripts/main.js1700071304811388690 0
-58/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/scripts1700071304847388787 1
-72/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/index.f75de5e1.js.map1700071304835388754 0
-50/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist1700071304843388775 1
+66/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/scripts/main.js1700072766339092560 0
+58/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/scripts1700072766367092635 1
+72/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/index.f75de5e1.js.map1700072766355092602 0
+50/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist1700072766363092623 1
 56/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/clone form1700061038904711368 0
 63/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/package-lock.json1699317285225166433 0
 56/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/src/images1699834315205079289 1
 68/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/src/styles/_sobre.scss1700061622266162382 0
 67/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/src/styles/_form.scss1700071424527709195 0
 56/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/src/styles1700051224902697145 1
-65/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/src/scripts/main.js1700071179683053690 0
+65/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/src/scripts/main.js1700072216561718781 0
 57/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/src/scripts1698711631587366041 1
 49/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/src1699318998112330888 1
 96/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/source-map/dist/source-map.min.js.map1698711639859369203 0
@@ -318,7 +318,7 @@
 119/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/lib/svgo/coa.js1698711642599370250 0
 137/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/lib/svgo/css-style-declaration.js1698711642635370264 0
 122/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/lib/svgo/config.js1698711642603370251 0
-77/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/tarefa_m22.59712999.js.map1700071304835388754 0
+77/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/tarefa_m22.59712999.js.map1700072766355092602 0
 123/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/lib/svgo/plugins.js1698711642691370285 0
 112/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/lib/svgo1698711645287371277 1
 117/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/lib/parser.js1698711642679370281 0
@@ -1695,7 +1695,7 @@
 112/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/caniuse-lite/data/features/document-evaluate-xpath.js1698711642715370294 0
 95/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/css-what/lib/commonjs/types.d.ts.map1698711639243368967 0
 109/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/caniuse-lite/data/features/prefers-color-scheme.js1698711643771370698 0
-68/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/bolo.1bc9c591.jpg1700071304447387716 0
+68/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/bolo.1bc9c591.jpg1700072766103091928 0
 101/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/caniuse-lite/data/features/currentcolor.js1698711642639370265 0
 121/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@parcel/package-manager/test/fixtures/has-foo/node_modules/foo1698711640255369354 1
 112/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@swc/helpers/cjs/_object_without_properties_loose.cjs1698711641271369742 0
@@ -2242,7 +2242,7 @@
 104/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/caniuse-lite/data/features/matchesselector.js1698711643295370516 0
 93/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/caniuse-lite/data/features/cors.js1698711642099370059 0
 112/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/css-select/node_modules/domutils/lib/esm/helpers.d.ts1698711639915369224 0
-70/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/scripts/main.js.map1700071304835388754 0
+70/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/scripts/main.js.map1700072766359092613 0
 76/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/lmdb/util/when.js1698711642307370138 0
 108/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/caniuse-lite/data/features/css-overflow-anchor.js1698711642459370196 0
 90/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/caniuse-lite/data/regions/CN.js1698711642027370031 0
@@ -2856,7 +2856,7 @@
 90/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/posthtml-parser/dist/index.d.ts1698711640719369531 0
 116/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@parcel/core/test/fixtures/invalid-target-source-not-file1698711642343370152 1
 104/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/caniuse-lite/data/features/mutation-events.js1698711643615370638 0
-73/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/tarefa_m22.59712999.js1700071304807388680 0
+73/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/tarefa_m22.59712999.js1700072766339092560 0
 114/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/css-select/node_modules/domutils/lib/traversal.d.ts.map1698711639811369185 0
 122/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/lib/types.js1698711642627370260 0
 107/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@swc/helpers/cjs/_class_apply_descriptor_set.cjs1698711640755369545 0
@@ -3474,7 +3474,7 @@
 102/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@babel/highlight/node_modules/chalk/license1698711638575368712 0
 99/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/caniuse-lite/data/features/filesystem.js1698711642871370354 0
 111/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/caniuse-lite/data/features/getelementsbyclassname.js1698711642915370371 0
-61/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/index.html1700071304699388390 0
+61/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/index.html1700072766235092281 0
 104/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/lmdb/node_modules/node-addon-api/node_api.gyp1698711643763370694 0
 85/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@swc/helpers/_/_instanceof1698711642683370282 1
 92/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@swc/helpers/cjs/_await_value.cjs1698711640707369526 0
@@ -4250,7 +4250,7 @@
 86/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/svgo/plugins/removeXMLNS.js1698711641699369906 0
 101/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@babel/code-frame/node_modules/chalk/types1698711638919368843 1
 92/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/svgo/plugins/removeXMLProcInst.js1698711641703369907 0
-68/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/index.f75de5e1.js1700071304807388680 0
+68/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/index.f75de5e1.js1700072766339092560 0
 98/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@parcel/utils/test/prettifyTime.test.js1698711641327369764 0
 79/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/lightningcss/LICENSE1698711639827369190 0
 80/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@babel/code-frame/lib1698711638895368834 1
@@ -4582,7 +4582,7 @@
 107/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@babel/highlight/node_modules/chalk/package.json1698711638411368649 0
 101/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@swc/helpers/_/_object_spread/package.json1698711642791370323 0
 101/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@swc/helpers/_/_class_apply_descriptor_get1698711642195370095 1
-57/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/styles1700071425219711047 1
+57/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/styles1700072766363092623 1
 94/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@swc/helpers/_/_to_consumable_array1698711642931370377 1
 97/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@swc/helpers/cjs/_class_call_check.cjs1698711640775369552 0
 91/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/msgpackr-extract/src/extract.cpp1698711638611368726 0
@@ -4904,7 +4904,7 @@
 111/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/caniuse-lite/data/features/css-media-range-syntax.js1698711642423370183 0
 110/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@parcel/rust/parcel-node-bindings.darwin-arm64.node1698711644363370924 0
 88/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@swc/helpers/esm/_decorate.js1698711641639369883 0
-70/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/styles/main.css.map1700071425219711047 0
+70/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/dist/styles/main.css.map1700072766355092602 0
 85/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@swc/helpers/esm/_using.js1698711641887369978 0
 99/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@parcel/utils/src/dependency-location.js1698711639339369004 0
 85/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@lezer/common/package.json1698711640203369334 0
@@ -5287,7 +5287,7 @@
 93/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@parcel/core/src/public/Symbols.js1698711641927369993 0
 88/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/svgo/plugins/removeViewBox.js1698711641695369904 0
 130/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/cleanupListOfValues.js1698711642571370239 0
-60/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/src/index.html1700070262716705833 0
+60/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/src/index.html1700072764975088909 0
 102/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/caniuse-lite/data/features/css-gradients.js1698711642343370152 0
 84/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@parcel/optimizer-css/lib1698711642663370274 1
 100/home/rodlinux/Documentos/Ebac/M22/tarefa_m22/node_modules/@parcel/optimizer-css/lib/CSSOptimizer.js1698711642667370276 0
