@@ -1,0 +1,73 @@
+form {
+ 
+    margin: 0 auto;
+    text-align: center;
+
+    label {
+        margin-top: 20px;
+        display: block;
+        text-align: center;
+    }
+
+
+    input {
+        margin-top: 8px;
+        margin-bottom: 18px;
+        width: 40%;
+        font-size: 20px;
+        color: red;
+    }
+    
+    button {
+        display: block;
+        text-align: center;
+        margin: 0 auto;
+        border-radius: 10px;
+        font-size: 18px;
+        color: red;
+        padding: 10px;
+
+        &:hover {
+            cursor: pointer;
+        }
+
+        &:disabled {
+            background-color: #5DEBF0;
+            color: rgb(7, 9, 9);
+        }
+
+    }
+}
+
+@media (min-width:320px) and (max-width:767px) {
+
+    form {
+ 
+        margin: 0 auto;
+        text-align: center;
+
+        label {
+            display: block;
+        }
+    
+    
+        input {
+            display: block;
+            margin: 20px 0;
+            width: 100%;
+            font-size: 15px;
+            border-radius: 5px;
+        }
+        
+        button {
+            display: block;
+            text-align: center;
+            margin: 0 auto;
+            border-radius: 10px;
+            font-size: 15px;
+            color: red;
+            padding: 6px;
+            
+        }
+    }
+}

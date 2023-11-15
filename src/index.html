@@ -5,16 +5,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Aniversário</title>
     <link rel="stylesheet" href="./styles/main.scss">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Agbalumo&display=swap" rel="stylesheet">
 </head>
 <body>
     <div class="container">
         <header>
-            <h2>O maior evento de tecnologia no Brasil começa em <span id="contador"></span></h2>
-            <h1>E</h1>
+            <div class="titulo">
+                <h2>Daqui a <span id="contador" class="shader-vermelho"></span> para</h2>
+                <h1>Festa de 100 anos</h1>
+            </div>
         </header>
-        <main>
-            <img src="./images/bolo.jpg" alt="Bolo">
-        </main>
+        <section class="sobre">
+            <img src="./images/bolo.jpg" alt="Foto do bolo">
+            <div class="sobre__content">
+                <p>
+                    Fazer aniversário é ter passe livre para comemorar com uma festa incrível e 
+                    contar com as pessoas que são especiais na sua vida. Nos preparativos desse 
+                    evento, não se esqueça de escolher o texto do seu convite que fará seus convidados 
+                    se sentirem queridos. Confira frases para convite de aniversário e escolha o 
+                    que mais combina com você.
+                </p>
+                <img src="./images/boloniver.jpg" alt="bolo 2">
+            </div>
+        </section>
+            <form action="">
+                <label for="">Fazer aniversário só é legal se comemorar ao lado de quem amamos. Conto com sua presença!</label>
+                <input type="text" name="nome" id="" placeholder="escreva seu nome:" required>
+                <input type="email" name="email" placeholder="seu melhor email:" required>
+                <button type="submit" disabled="disabled">Confirmar participação</button>
+            </form>
+        </div>
     </div>
 
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>

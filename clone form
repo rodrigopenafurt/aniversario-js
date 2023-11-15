@@ -1,0 +1,58 @@
+form {
+    margin: 0 auto;
+    text-align: center;
+
+    label {
+        display: block;  // Adicionando essa linha para o label ficar em bloco (abaixo do input)
+    }
+
+    input {
+        display: block;  // Adicionando essa linha para o input ficar em bloco (abaixo do label)
+        margin: 20px 0;
+        width: 40%;
+        font-size: 20px;
+    }
+
+    button {
+        display: block;
+        text-align: center;
+        margin: 0 auto;
+        border-radius: 10px;
+        font-size: 18px;
+        color: red;
+        padding: 10px;
+
+        &:hover {
+            cursor: pointer;
+        }
+    }
+}
+
+@media (min-width:320px) and (max-width:767px) {
+    form {
+        margin: 0 auto;
+        text-align: center;
+
+        label {
+            display: block;  // Adicionando essa linha para o label ficar em bloco (abaixo do input)
+        }
+
+        input {
+            display: block;  // Adicionando essa linha para o input ficar em bloco (abaixo do label)
+            margin: 20px 0;
+            width: 90%;
+            font-size: 15px;
+            border-radius: 5px;
+        }
+
+        button {
+            display: block;
+            text-align: center;
+            margin: 0 auto;
+            border-radius: 10px;
+            font-size: 15px;
+            color: red;
+            padding: 6px;
+        }
+    }
+}

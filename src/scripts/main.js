@@ -30,3 +30,34 @@ const contaAsHoras = setInterval(function() {
     }
 
 }, 1000);
+
+
+
+document.addEventListener('DOMContentLoaded', function() {
+    var formulario = document.querySelector('form');
+    var nomeInput = document.querySelector('input[name="nome"]');
+    var emailInput = document.querySelector('input[name="email"]');
+    var botaoConfirmar = document.querySelector('button');
+
+    nomeInput.addEventListener('input', verificarCamposPreenchidos);
+    emailInput.addEventListener('input', verificarCamposPreenchidos);
+
+    function verificarCamposPreenchidos() {
+        if (nomeInput.value.trim() !== '' && emailInput.value.trim() !== '') {
+            botaoConfirmar.removeAttribute('disabled');
+        } else {
+            botaoConfirmar.setAttribute('disabled', 'disabled');
+        }
+    }
+
+    formulario.addEventListener('submit', function() {
+        event.preventDefault();
+
+        if (nomeInput.value.trim() !== '' && emailInput.value.trim() !== '') {
+            alert('Obrigado pela confirmação! Aguardamos você no dia da festa, os detalhes do evento serão enviados por email. =)');
+        }
+
+    });
+});
+
+
